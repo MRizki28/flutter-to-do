@@ -7,4 +7,4 @@ Simple apps to do
 
 ## 📥 Download
 
-[⬇️ Download APK](https://github.com/MRizki28/flutter-to-do/release/app-release.apk)
+[⬇️ Download APK](https://github.com/MRizki28/flutter-to-do/master/release/app-release.apk)
